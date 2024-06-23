@@ -1,5 +1,5 @@
 #Power BI Dashboard for comprehensive data analytics.
-# 
+
 Developed a Power BI Dashboard for comprehensive data analytics. Gather and preprocess datasets from various sources, ensuring data integrity and consistency. Design interactive visualizations, including charts, graphs, and tables, to represent key performance indicators and trends. Implement features such as filters, slicers, and drill-down capabilities for deeper insights. Utilize Power BI's functionalities for data modeling, transformation, and integration. Ensure the dashboard is user-friendly and customizable to meet stakeholders' needs for informed decision-making.
 
 Dataset = https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
