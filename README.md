@@ -1,0 +1,3 @@
+Overview
+This repository contains Python scripts and a Power BI project for comprehensive data analysis and visualization. The main focus is on collecting, cleaning, managing, and visualizing datasets. The project involves the use of SQL, Excel, and Python to ensure data integrity, remove duplicates, and create insightful visualizations for informed decision-making.
+This project provides a comprehensive solution for data analysis and visualization, utilizing Python for data management and Power BI for creating interactive dashboards. It enables effective decision-making through detailed analysis and clear visual representation of data.
